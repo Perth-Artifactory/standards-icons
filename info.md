@@ -2,6 +2,8 @@
 
 A Home Assistant icon set based on various symbol standards
 
+![A variant of the laser beam symbol being used to indicate a laser cutter](usage.png)
+
 ## Installation
 
  1. Add the folowing to the `frontend` section of your `configuration.yaml`
